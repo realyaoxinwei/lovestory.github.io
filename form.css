@@ -9,5 +9,5 @@ body{
 .body-image{
     background-image: url(dance.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
 }
