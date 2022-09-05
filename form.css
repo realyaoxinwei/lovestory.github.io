@@ -1,0 +1,13 @@
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+}
+
+.body-image{
+    background-image: url(dance.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
